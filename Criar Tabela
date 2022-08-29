@@ -1,0 +1,7 @@
+CREATE TABLE dados (
+    ItemID int,
+    CodigoItem int,
+    Nome varchar(50),
+    Valor double,
+    Host varchar(50)
+);
